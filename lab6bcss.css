@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+}
+#logo{
+	float: left;
+}
+#b{
+	color: blue;
+	float: right;
+
+}
+#c{
+	height: 100px;
+	width: 100%;
+}
+#text{
+	background-color: red;
+	color: black;
+	float: top;
+	width: 100px;
+	height: 50px;
+	border:0.5px solid green; 
+
+}
+#empty{
+	border:0.5px solid green;
+	background-color: red;
+	width: 100px;
+	height: 10px;
+}
+#d{
+	width: 50px;
+	margin-right: 20px;
+}
+#e{
+	float:left;
+	margin-right:30px;
+}
+
+#DUR{
+	float: left;
+	background-color: blue;
+	width: 100%;
+	color: white;
+	height: 30px;
+
+}

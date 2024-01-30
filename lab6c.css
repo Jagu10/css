@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+}
+#format{
+	height: 100px;
+	width: 100%;
+}
+#border{
+	background-color: black;
+	height: 40px;
+	width: 100%;
+}
+#Header{
+	background-color: red;
+	color: white;
+	height: 50px;
+	width:70%;
+	padding top: 10px;
+	margin-left: 100px;
+	margin-top: 5px;
+}
+#navigation{
+	background-color: purple;
+	color: white;
+	height: 200px;
+	width: 13%;
+	margin-left: 100px;
+	margin-top: 5px;
+	padding-top: 90px;
+}
+#content{
+	background-color: yellow;
+	color: black;
+	height: 200px;
+	width: 55%;
+	float:right;
+	margin-bottom:50%;
+	margin-left: 200px;
+	padding-top: 100px;
+}
+#Sidebar{
+	background-color: green;
+	color: white;
+	height: 150px;
+	width: 20%;
+	float: right;
+	}
